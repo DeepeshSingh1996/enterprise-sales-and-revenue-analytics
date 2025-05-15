@@ -1,0 +1,11 @@
+OpportunityID,AccountID,Amount,CloseDate,Stage
+1,205,31678.01,5/4/2024,Closed Won
+2,204,29519.74,3/10/2024,Closed Won
+3,203,24691.42,5/10/2024,Prospecting
+4,201,17269.53,5/5/2024,Prospecting
+5,202,46651.85,5/17/2024,Prospecting
+6,202,34167.73,5/20/2024,Closed Won
+7,201,49037.83,5/28/2024,Qualification
+8,204,28421.49,3/20/2024,Prospecting
+9,202,11450.9,4/2/2024,Proposal
+10,205,26312.02,5/15/2024,Proposal

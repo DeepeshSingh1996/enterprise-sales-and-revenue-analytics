@@ -1,0 +1,6 @@
+ProductID,Region,BasePrice,EffectiveDate
+1,Americas,50,1/1/2024
+2,EMEA,45,1/1/2024
+3,APAC,55,1/1/2024
+4,Americas,60,2/1/2024
+5,EMEA,40,2/1/2024
